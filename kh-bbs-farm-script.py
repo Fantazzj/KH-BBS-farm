@@ -20,7 +20,8 @@ while True:
 	wait(4)
 	press(Key.F)
 	wait(2.5)
-	press(Key.A,1.9)
+	#press(Key.A,1.9) #for Ventus
+	press(Key.A,1.7) #for Aqua
 	press(Key.W,5)
 	wait(1)
 	press(Key.C)
