@@ -12,6 +12,7 @@ A script for [FreePIE](https://github.com/AndersMalmgren/FreePIE) to farm unvers
 * Download and open the script;
 * Open Kingdom Hearts BBS and go to "" in "Radiant Garden":
 * Once there go in FreePie window and launch the script by clicking **F5**;
+* Come back to the Kingdom Hearts's window;
 * Watch the script farming;
 >_Note:_ during the first cycle you need to check the spells selector because it will skip a Megaflare. Click one time **C** while the character is waiting.
 
