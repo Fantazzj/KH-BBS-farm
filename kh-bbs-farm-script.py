@@ -22,6 +22,7 @@ while True:
 	wait(2.5)
 	#press(Key.A,1.9) #for Ventus
 	press(Key.A,1.7) #for Aqua
+	#press(Key, ) #TODO for Terra
 	press(Key.W,5)
 	wait(1)
 	press(Key.C)
