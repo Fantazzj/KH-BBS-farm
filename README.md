@@ -1,4 +1,4 @@
-# kh-bbs-farm
+# KH-BBS-farm
 A script for [FreePIE](https://github.com/AndersMalmgren/FreePIE) to farm unversed in Kingdom Hearts: Birth By Sleep.
 
 ## Preliminar steps:
@@ -10,7 +10,7 @@ A script for [FreePIE](https://github.com/AndersMalmgren/FreePIE) to farm unvers
 ## How to use:
 * Download and install FreePie from the [official website](https://andersmalmgren.github.io/FreePIE/);
 * Download and open the script;
-* Open Kingdom Hearts BBS and go to "" in "Radiant Garden":
+* Open Kingdom Hearts BBS and go where you had the boss fight versus "[Trinity Armor](https://static.wikia.nocookie.net/kingdomhearts/images/4/4b/Trinity_Armor_BBSFM.png/revision/latest?cb=20110922175216)" (the battle with the three characters together) in "Radiant Garden":
 * Once there go in FreePie window and launch the script by clicking **F5**;
 * Come back to the Kingdom Hearts's window;
 * Watch the script farming;
